@@ -14,14 +14,30 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+About:
+Simple Web app to view weather of a given location.
 
-## Running end-to-end tests
+Tools Used:
+HTML, CSS, SCSS, Angular, Typescript
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+API Used:
+https://rapidapi.com/weatherapi/api/weatherapi-com
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+To Run:
+1. Make sure you have all dependencies, so e.g, run "npm i"
+2. Run 'ng serve' in the project directory.
+3. Go to `http://localhost:4200/`
+4. API can be slow, so wait a bit to load results.
+
+------------------------------------------------Samples------------------------------------------------
+
+"Victoria BC" Search Result:
+
+![This is result for victoria](https://github.com/Nabildexter/ALL-Web-Projects/blob/main/Weather%20App%20(UIUX%2C%20Html%2C%20CSS%2C%20SCSS%2C%20Angular%2C%20TypeScript%2C%20APIs)/sample1.jpg?raw=true)
+
+"Kuala Lumpur" Search Result:
+
+![This is result for kuala lumpur](https://github.com/Nabildexter/ALL-Web-Projects/blob/main/Weather%20App%20(UIUX%2C%20Html%2C%20CSS%2C%20SCSS%2C%20Angular%2C%20TypeScript%2C%20APIs)/sample2.jpg?raw=truee)
